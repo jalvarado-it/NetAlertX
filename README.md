@@ -1,3 +1,6 @@
+# ⚠️ READ FIRST ❗
+This is a **fork** from [jokob-sk/NetAlertX ](https://github.com/jokob-sk/NetAlertX/tree/main) with changes and customizations according to my needs.
+
 [![GitHub Committed](https://img.shields.io/github/last-commit/jokob-sk/NetAlertX?color=40ba12&label=Pushed&logo=GitHub&logoColor=fff&style=for-the-badge)](https://github.com/jokob-sk/NetAlertX)
 [![Docker Size](https://img.shields.io/docker/image-size/jokobsk/netalertx?label=Size&logo=Docker&color=0aa8d2&logoColor=fff&style=for-the-badge)](https://hub.docker.com/r/jokobsk/netalertx)
 [![Docker Pulls](https://img.shields.io/docker/pulls/jokobsk/netalertx?label=Pulls&logo=docker&color=0aa8d2&logoColor=fff&style=for-the-badge)](https://hub.docker.com/r/jokobsk/netalertx)
